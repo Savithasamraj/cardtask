@@ -66,9 +66,8 @@ function App() {
     },
     {
       first: "Pro",
-
-      second: "$49/month",
-      third: "unlimited User",
+ second: "$49/month",
+      third: "unlimited",
       features:[{
         title: "5GB Storage",
         able:true
